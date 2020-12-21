@@ -3,8 +3,8 @@
 
 
 ## Tools
-* VATSIM Tools - https://github.com/arobison203/vatsim-tools
+* VATSIM Tools - https://github.com/arobison203/vatsim-tools (NodeJS)
 
 ## Open Source
-* ZAB Open Source Website - https://gitlab.com/albuquerque-web-stack
-* ZDC Open Source Website - https://github.com/vzdc/ZDC.Web
+* ZAB Open Source Website - https://gitlab.com/albuquerque-web-stack (NodeJS)
+* ZDC Open Source Website - https://github.com/vzdc/ZDC.Web (C#)
